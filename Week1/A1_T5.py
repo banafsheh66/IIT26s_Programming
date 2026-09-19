@@ -1,0 +1,10 @@
+print("Calculate the area of a wall.")
+print("Enter the width in meters:")
+Feed = input()
+Width = int(Feed)
+print("Enter the height in meters:")
+Feed = input()
+Height = int(Feed)
+print(f"Width is {Width} m and height is {Height} m.")
+Area = Width * Height
+print(f"The wall will be {Area} square meters.")
