@@ -14,3 +14,7 @@ https://github.com/banafsheh66/Python_programming_W3_6
 ## w4_6 w4_7
 https://github.com/banafsheh66/Python_programming_W4_6
 https://github.com/banafsheh66/Python_programming_W4_7
+# Week5
+## w5_6 w5_7
+https://github.com/banafsheh66/Python_programming_W5_6
+https://github.com/banafsheh66/Python_programming_W5_7
