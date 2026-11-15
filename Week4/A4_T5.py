@@ -24,8 +24,5 @@ else:
     for i in range(StartPoint, StopPoint):
         if i == InspectionPoint:
             continue
-        print(i, end=" " if i != StopPoint - 1 else "")
-    print()
-    print()
-
+        print(i, end="-" if i != StopPoint - 1 else "")
 print("Program ending.")
